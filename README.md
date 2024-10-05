@@ -1,7 +1,6 @@
 # 👋 Das bin ich
-- Ich komme aus Deutschland
+- Ich komme aus Deutschland 🇩🇪
 - Ich Programmiere in meiner Freizeit
-- Ich bin aktiv auf Discord
 
 ![Discord](https://img.shields.io/discord/1278386418166792222?style=for-the-badge&logo=Discord&label=Discord&color=blue&link=https%3A%2F%2Fdiscord.gg%2Fslothycrew)
 
